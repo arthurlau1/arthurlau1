@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/arthurlau1/Vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+<!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** -->
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+<!--
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -25,6 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/___________
+-->
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
